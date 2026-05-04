@@ -1,6 +1,7 @@
 # Blinky-Board-Repo
 This is a starter project that uses a 555 timer in astable mode and a CD4017 IO expander to create a heart-shaped light-up board (with an optional Iron Man reference). It was made entirely with KiCad. PCB was custom-printed and hand-soldered using the resulting Gerber files. Full BOM is listed below and attached.
-<img width="1076" height="622" alt="Screenshot 2026-05-03 at 1 22 49 PM" src="https://github.com/user-attachments/assets/7ca2dd40-20b1-407a-b654-4a566ddbdc22" />
+<img width="801" height="593" alt="Screenshot 2026-05-04 at 11 27 22 AM" src="https://github.com/user-attachments/assets/777c9b89-ef1e-43bc-80eb-2cc3346ed099" />
+
 [Blinky Board .csv](https://github.com/user-attachments/files/27324070/Blinky.Board.csv)
 Reference	Qty	Value	DNP	Exclude from BOM	Exclude from Board	Footprint	Datasheet
 C1	1	0.01 uF				Capacitor_THT:CP_Radial_D5.0mm_P2.00mm	
