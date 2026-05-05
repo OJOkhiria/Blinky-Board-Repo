@@ -1,5 +1,5 @@
 # Blinky-Board-Repo
-This is a starter project that uses a 555 timer in astable mode and a CD4017 IO expander to create a heart-shaped light-up board (with an optional Iron Man reference). It was made entirely with KiCad. PCB was custom-printed and hand-soldered using the resulting Gerber files. Full BOM is listed below and attached.
+This is a starter project that uses a 555 timer in astable mode and a CD4017 IO expander to create a heart-shaped light-up board (with an optional Iron Man reference). On the 555 timer, astable mode produces a continuous oscillating signal. In this configuration, the 555 timer repeatedly toggles its output between high and low states, with both the frequency and pulse width adjustable. Essentially, this mode makes the timer act like a blinking light. It keeps switching ON and OFF, without needing you to press anything, making it the perfect choice for a lights that blink on their own. It was made entirely with KiCad. PCB was custom-printed and hand-soldered using the resulting Gerber files. Full BOM is listed below and attached.
 <img width="801" height="593" alt="Screenshot 2026-05-04 at 11 27 22 AM" src="https://github.com/user-attachments/assets/777c9b89-ef1e-43bc-80eb-2cc3346ed099" />
 
 [Blinky Board .csv](https://github.com/user-attachments/files/27324070/Blinky.Board.csv)
